@@ -1,0 +1,10 @@
+{
+    "editor.selectionHighlight": true,
+    "workbench.settings.useSplitJSON": true
+    "workbench.colorCustomizations": {
+    "editor.selectionHighlightBackground": "#acac74",
+    "editor.occurrencesHighlightBackground": "#FFFF00",
+    "editor.findMatchHighlightBackground": "#dbdbaf"
+}
+
+}
